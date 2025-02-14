@@ -1,0 +1,3 @@
+streamlit
+google-cloud-ai-platform
+google-cloud-logging
